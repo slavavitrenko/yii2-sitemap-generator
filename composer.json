@@ -1,6 +1,6 @@
 {
-    "name": "pendalf89/yii2-sitemap-generator",
-    "description": "Yii2 sitemap generator component",
+    "name": "slavavitrenko/yii2-sitemap-generator",
+    "description": "Yii2 sitemap generator component (fork from pendalf89/yii2-sitemap-generator)",
     "license": "MIT",
     "authors": [
         {
